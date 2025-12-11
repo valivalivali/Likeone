@@ -17,10 +17,15 @@ The app limits you to one like per day. You scroll through video profiles and ch
 ## Links
 
 - [Privacy Policy](https://github.com/valivalivali/Likeone/blob/main/PRIVACY.md)
+- [Terms of Service](https://github.com/valivalivali/Likeone/blob/main/TERMS.md)
+
+## Support
+
+For help, questions, or feedback, contact us at: **valivalivali128@gmail.com**
 
 ## Download
 
-Coming soon on the App Store.
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/likeone/id6755971576)
 
 ---
 
